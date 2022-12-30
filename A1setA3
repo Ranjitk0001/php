@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Frameset</title>
+</head>
+<frameset rows="30%,200%,30%">
+	<frame name="top" src="a.html">
+<frameset cols="30%,*,">
+	<frame src="b.html">
+	<frame src="c.html">
+	
+</frameset>
+<frame name="bottom" src="d.html">
+
+
+</frameset>
+<body>
+
+</body>
+</html>
+
+
+//a
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title></title>
+</head>
+<body>
+	<h1 align="center">This is Header</h1>
+
+</body>
+</html>
+
+//b
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title></title>
+</head>
+<body>
+
+<b>Look in the the box at the right for some information</b>
+</body>
+</html>
+
+
+\\c
+
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title></title>
+</head>
+<body>
+<b>Here is some information</b>
+</body>
+</html>
+
+//d
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title></title>
+</head>
+<body>
+<h1 align="center">This is footer</h1>
+</body>
+</html>
