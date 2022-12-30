@@ -1,0 +1,17 @@
+
+<html>
+<head>
+	<title>A1setA2</title>
+</head>
+<body >
+	<h1 align="center">List of Books</h1>
+	<table border=5 align="center">
+	<tr><th rowspan=2>Item No</th><th rowspan=2>Item Name</th><th colspan=2>Price</th></tr>
+	<tr><th>Rs.</th><th>Paise</th></tr>
+	<tr><td>1</td><td>Programming in Python</td> <td>500</td><td> 50</td></tr>
+	<tr><td>2</td><td>Java in Python</td> <td>345</td><td> 00</td></tr>
+	
+
+</table>
+</body>
+</html>
